@@ -1,0 +1,38 @@
+# 운영체제
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Cursor AI
+.cursor/
+
+# Node.js (향후 확장 대비)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.*.local
+
+# Python (향후 확장 대비)
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# 임시 파일
+*.tmp
+*.bak
+*.log
